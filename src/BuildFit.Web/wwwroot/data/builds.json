@@ -257,7 +257,7 @@
       "name": "FHD Wi-Fi 확장형 32",
       "summary": "무선 연결과 남은 메모리 슬롯 3개를 함께 확보한 FHD 확장 구성",
       "purposes": ["Gaming", "Creator"], "preference": "ExpansionFirst", "targetMemoryGb": 32, "targetResolution": "FHD",
-      "performanceScore": 72, "quietScore": 69, "expansionScore": 89,
+      "performanceScore": 72, "quietScore": 69, "expansionScore": 84,
       "components": [
         { "productId": "cpu-amd-7500f", "quantity": 1 }, { "productId": "cooler-pa120se", "quantity": 1 }, { "productId": "board-b650m-a-wifi", "quantity": 1 }, { "productId": "memory-klevv-ddr5-32", "quantity": 1 }, { "productId": "gpu-msi-rtx5060ti-8", "quantity": 1 }, { "productId": "ssd-micron-e100-1tb", "quantity": 1 }, { "productId": "case-zalman-p10-namu", "quantity": 1 }, { "productId": "psu-stars-gemini-750", "quantity": 1 }, { "productId": "service-assembly-air", "quantity": 1 }
       ],
