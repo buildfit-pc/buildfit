@@ -43,7 +43,7 @@
                 <div class="mt-2 grid grid-cols-2 gap-2">
                     @foreach (var quality in QualityTargets) { <ChoiceButton Text="@quality.Name" Active="@(_qualityId == quality.Id)" Click="@(() => SetQuality(quality.Id))" /> }
                 </div>
-                <p class="mt-2 text-xs leading-5 text-slate-500">@SelectedGame.Description · @SelectedQuality.Name · 필요 성능 점수 @MinimumPerformanceScore점 이상</p>
+                <p class="mt-2 text-xs leading-5 text-slate-500">@SelectedGame.Description · @SelectedQuality.Name · 필요 성능 점수 @(MinimumPerformanceScore)점 이상</p>
             </fieldset>
             <fieldset>
                 <legend class="mb-2 text-sm font-semibold text-slate-300">메모리</legend>
