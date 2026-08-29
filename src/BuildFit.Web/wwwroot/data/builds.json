@@ -1,0 +1,101 @@
+{
+  "schemaVersion": "1.0.0",
+  "builds": [
+    {
+      "id": "fhd-performance-32",
+      "name": "FHD 퍼포먼스 32",
+      "summary": "듀얼채널 메모리와 RTX 5060 Ti를 중심으로 지금의 FHD 성능을 우선한 구성",
+      "purposes": ["Gaming", "Creator"],
+      "preference": "ImmediatePerformance",
+      "targetMemoryGb": 32,
+      "targetResolution": "FHD",
+      "performanceScore": 78,
+      "quietScore": 62,
+      "expansionScore": 58,
+      "components": [
+        { "productId": "cpu-amd-7500f", "quantity": 1 },
+        { "productId": "cooler-max600", "quantity": 1 },
+        { "productId": "board-b650m-k", "quantity": 1 },
+        { "productId": "memory-micron-ddr5-16", "quantity": 2 },
+        { "productId": "gpu-msi-rtx5060ti-8", "quantity": 1 },
+        { "productId": "ssd-micron-e100-1tb", "quantity": 1 },
+        { "productId": "case-darkflash-dpf70", "quantity": 1 },
+        { "productId": "psu-stars-gemini-750", "quantity": 1 },
+        { "productId": "service-assembly-air", "quantity": 1 }
+      ],
+      "reasons": ["16GB x 2 듀얼채널", "AM5 업그레이드 경로", "750W ATX 3.1 전원 여유"]
+    },
+    {
+      "id": "fhd-expansion-32",
+      "name": "FHD 확장형 32",
+      "summary": "메모리 슬롯 3개를 남겨 64GB 이상 확장하기 쉬운 구성",
+      "purposes": ["Gaming", "Creator"],
+      "preference": "ExpansionFirst",
+      "targetMemoryGb": 32,
+      "targetResolution": "FHD",
+      "performanceScore": 70,
+      "quietScore": 62,
+      "expansionScore": 88,
+      "components": [
+        { "productId": "cpu-amd-7500f", "quantity": 1 },
+        { "productId": "cooler-max600", "quantity": 1 },
+        { "productId": "board-b650m-k", "quantity": 1 },
+        { "productId": "memory-klevv-ddr5-32", "quantity": 1 },
+        { "productId": "gpu-msi-rtx5060ti-8", "quantity": 1 },
+        { "productId": "ssd-micron-e100-1tb", "quantity": 1 },
+        { "productId": "case-darkflash-dpf70", "quantity": 1 },
+        { "productId": "psu-stars-gemini-750", "quantity": 1 },
+        { "productId": "service-assembly-air", "quantity": 1 }
+      ],
+      "reasons": ["32GB x 1로 슬롯 3개 보존", "싱글채널 성능 한계 명시", "AM5와 750W로 확장 여유"]
+    },
+    {
+      "id": "qhd-performance-32",
+      "name": "QHD 게이밍 32",
+      "summary": "7800X3D와 RTX 5070을 조합한 QHD 고주사율 중심 구성",
+      "purposes": ["Gaming"],
+      "preference": "ImmediatePerformance",
+      "targetMemoryGb": 32,
+      "targetResolution": "QHD",
+      "performanceScore": 94,
+      "quietScore": 72,
+      "expansionScore": 70,
+      "components": [
+        { "productId": "cpu-amd-7800x3d", "quantity": 1 },
+        { "productId": "cooler-pa120se", "quantity": 1 },
+        { "productId": "board-b650m-mortar-wifi", "quantity": 1 },
+        { "productId": "memory-micron-ddr5-16", "quantity": 2 },
+        { "productId": "gpu-msi-rtx5070-12", "quantity": 1 },
+        { "productId": "ssd-micron-p310-1tb", "quantity": 1 },
+        { "productId": "case-darkflash-dpf70", "quantity": 1 },
+        { "productId": "psu-stars-cygnus-850", "quantity": 1 },
+        { "productId": "service-assembly-air", "quantity": 1 }
+      ],
+      "reasons": ["게임 특화 X3D CPU", "RTX 5070 QHD 성능", "850W Gold와 12V-2x6 직결"]
+    },
+    {
+      "id": "creator-expansion-64",
+      "name": "크리에이터 확장형 64",
+      "summary": "8코어 CPU와 64GB 메모리, Wi-Fi 보드로 작업성과 증설 여지를 함께 확보한 구성",
+      "purposes": ["Creator"],
+      "preference": "ExpansionFirst",
+      "targetMemoryGb": 64,
+      "targetResolution": "QHD",
+      "performanceScore": 86,
+      "quietScore": 76,
+      "expansionScore": 90,
+      "components": [
+        { "productId": "cpu-amd-9700x", "quantity": 1 },
+        { "productId": "cooler-pa120se", "quantity": 1 },
+        { "productId": "board-b650m-a-wifi", "quantity": 1 },
+        { "productId": "memory-klevv-ddr5-32", "quantity": 2 },
+        { "productId": "gpu-msi-rtx5060ti-8", "quantity": 1 },
+        { "productId": "ssd-micron-e100-1tb", "quantity": 1 },
+        { "productId": "case-zalman-p10-namu", "quantity": 1 },
+        { "productId": "psu-stars-gemini-750", "quantity": 1 },
+        { "productId": "service-assembly-air", "quantity": 1 }
+      ],
+      "reasons": ["32GB x 2로 64GB 구성", "메모리 슬롯 2개 잔여", "Wi-Fi와 2.5GbE 포함"]
+    }
+  ]
+}

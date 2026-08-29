@@ -1,0 +1,11 @@
+{
+  "name": "buildfit",
+  "private": true,
+  "scripts": {
+    "css:build": "tailwindcss -i ./src/BuildFit.Web/Styles/app.css -o ./src/BuildFit.Web/wwwroot/css/app.css --minify"
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.1.13",
+    "tailwindcss": "^4.1.13"
+  }
+}

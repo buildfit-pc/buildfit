@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/BuildFit.Core/BuildFit.Core.csproj" />
+    <Project Path="src/BuildFit.Web/BuildFit.Web.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/BuildFit.Core.Tests/BuildFit.Core.Tests.csproj" />
+  </Folder>
+</Solution>

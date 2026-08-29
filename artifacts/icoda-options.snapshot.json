@@ -1,0 +1,1286 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-08-29T22:15:33.2269622+09:00",
+  "records": [
+    {
+      "sourceId": "icoda-1732619",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T22:15:33.2028383+09:00",
+      "group": "그래픽카드",
+      "itemId": "1236504",
+      "name": "Nvidia MSI 지포스 RTX 3050 벤투스  OC D6 8GB 그래픽카드 (완제품용)",
+      "amountKrw": 381600,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1732619",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T22:15:33.2027924+09:00",
+      "group": "그래픽카드",
+      "itemId": "1505637",
+      "name": "Nvidia MSI 지포스 RTX 3050 벤투스 2X E OC D6 6GB 그래픽카드 (완제품용)",
+      "amountKrw": 321180,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1732619",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T22:15:33.2069419+09:00",
+      "group": "그래픽카드",
+      "itemId": "1614034",
+      "name": "Nvidia MSI 지포스 RTX 5060 Ti 쉐도우 OC 플러스 D7 16GB 그래픽카드 (완제품용)",
+      "amountKrw": 1126780,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1732619",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T22:15:33.2068727+09:00",
+      "group": "그래픽카드",
+      "itemId": "1617277",
+      "name": "Nvidia MSI 지포스 RTX 5060 Ti 벤투스 2X OC 플러스 D7 8GB 그래픽카드 (완제품용)",
+      "amountKrw": 593600,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1732619",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T22:15:33.2066920+09:00",
+      "group": "그래픽카드",
+      "itemId": "1627369",
+      "name": "Nvidia 기가바이트 지포스 RTX 5060 EAGLE OC D7 8GB (완제품용)",
+      "amountKrw": 559680,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1732619",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T22:15:33.2028809+09:00",
+      "group": "그래픽카드",
+      "itemId": "1653630",
+      "name": "Nvidia 기가바이트 지포스 RTX 5050 WINDFORCE OC D6 8GB (완제품용)",
+      "amountKrw": 413400,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1732619",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T22:15:33.2024258+09:00",
+      "group": "메모리",
+      "itemId": "1365675",
+      "name": "삼성 DDR5 8GB PC5-44800/5600MHz",
+      "amountKrw": 206000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1732619",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T22:15:33.2025611+09:00",
+      "group": "메모리",
+      "itemId": "1365678",
+      "name": "삼성 DDR5 16GB PC5-44800/5600MHz",
+      "amountKrw": 395000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1732619",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T22:15:33.2026957+09:00",
+      "group": "메모리",
+      "itemId": "1365681",
+      "name": "삼성 DDR5 32GB PC5-44800/5600MHz",
+      "amountKrw": 840000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1732619",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T22:15:33.2026052+09:00",
+      "group": "메모리",
+      "itemId": "1376207",
+      "name": "ESSENCORE DDR5 16GB PC5-44800 KLEVV CL46 메모리 (5600MHz) 파인인포",
+      "amountKrw": 340000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1732619",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T22:15:33.2026513+09:00",
+      "group": "메모리",
+      "itemId": "1447710",
+      "name": "ESSENCORE DDR5 32G PC5-44800 CL46 KLEVV 메모리 파인인포",
+      "amountKrw": 670000,
+      "quantity": 2
+    },
+    {
+      "sourceId": "icoda-1732619",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T22:15:33.2024735+09:00",
+      "group": "메모리",
+      "itemId": "1462611",
+      "name": "Crucial DDR5 8GB PC5-44800 CL46",
+      "amountKrw": 198000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1732619",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T22:15:33.2025172+09:00",
+      "group": "메모리",
+      "itemId": "1591848",
+      "name": "마이크론 DDR5 16GB PC5-44800/5600MHz CL46",
+      "amountKrw": 355000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1732619",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T22:15:33.2027442+09:00",
+      "group": "메모리",
+      "itemId": "1611379",
+      "name": "마이크론 Crucial DDR5 64GB PC5-44800 CL46",
+      "amountKrw": 1700000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1732619",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T22:15:33.2023741+09:00",
+      "group": "메인보드",
+      "itemId": "1322529",
+      "name": "MSI MAG B650M 박격포 WIFI 출력단자 HDMI , DP",
+      "amountKrw": 209000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1732619",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T22:15:33.2023282+09:00",
+      "group": "메인보드",
+      "itemId": "1518717",
+      "name": "MSI PRO B650M-A WIFI  HDMI , DisplayPort",
+      "amountKrw": 164300,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1732619",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T22:15:33.2022836+09:00",
+      "group": "메인보드",
+      "itemId": "1528818",
+      "name": "MSI PRO B650M-P D-SUB , HDMI , DisplayPort",
+      "amountKrw": 126140,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1732619",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T22:15:33.2137333+09:00",
+      "group": "운영체제 SSD",
+      "itemId": "1168780",
+      "name": "GEN4 2TB SAMSUNG PM9A1 읽기 7,000MB/s",
+      "amountKrw": 729000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1732619",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T22:15:33.2136908+09:00",
+      "group": "운영체제 SSD",
+      "itemId": "1275468",
+      "name": "GEN4 2TB Hynix P41 읽기7,000MB/s",
+      "amountKrw": 737000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1732619",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T22:15:33.2136149+09:00",
+      "group": "운영체제 SSD",
+      "itemId": "1328496",
+      "name": "GEN4 2TB WD SN850X 읽기 7,300MB/s",
+      "amountKrw": 580000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1732619",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T22:15:33.2071867+09:00",
+      "group": "운영체제 SSD",
+      "itemId": "1353066",
+      "name": "GEN4 2TB SAMSUNG 990 PRO 읽기 7,450MB/s",
+      "amountKrw": 1027000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1732619",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T22:15:33.2070165+09:00",
+      "group": "운영체제 SSD",
+      "itemId": "1567392",
+      "name": "GEN4 500GB 마이크론 P310 읽기 6,600MB/s",
+      "amountKrw": 187000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1732619",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T22:15:33.2071217+09:00",
+      "group": "운영체제 SSD",
+      "itemId": "1670265",
+      "name": "GEN4 1TB 마이크론 E100 읽기5,000MB/s",
+      "amountKrw": 235000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1732619",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T22:15:33.2071542+09:00",
+      "group": "운영체제 SSD",
+      "itemId": "1670943",
+      "name": "GEN4 1TB 에센코어 C925G 읽기 7,400MB/s",
+      "amountKrw": 270000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1732619",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T22:15:33.2070533+09:00",
+      "group": "운영체제 SSD",
+      "itemId": "1672275",
+      "name": "GEN4 500GB WD SN5100 읽기 6,600MB/s",
+      "amountKrw": 240000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1732619",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T22:15:33.2069810+09:00",
+      "group": "운영체제 SSD",
+      "itemId": "1680327",
+      "name": "GEN4 500GB WD SN5000 읽기 5,000MB/s",
+      "amountKrw": 238000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1732619",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T22:15:33.2143492+09:00",
+      "group": "조립비",
+      "itemId": "1000070",
+      "name": "아이코다 조립비 (공랭CPU쿨러 조립시 / 1대분)",
+      "amountKrw": 25000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1732619",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T22:15:33.2138565+09:00",
+      "group": "케이스",
+      "itemId": "1248381",
+      "name": "darkFlash DK1000 MESH 강화유리 블랙 미들타워 165/355/상단360/전3/후1",
+      "amountKrw": 69800,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1732619",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T22:15:33.2138935+09:00",
+      "group": "케이스",
+      "itemId": "1292662",
+      "name": "3RSYS L600 Quiet 블랙 미들타워 180/400/360_전3/후1",
+      "amountKrw": 92000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1732619",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T22:15:33.2138102+09:00",
+      "group": "케이스",
+      "itemId": "1589247",
+      "name": "앱코 SUITMASTER MF360 리얼우드 블랙/165/410/상단360/전면3/후면1",
+      "amountKrw": 73900,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1732619",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T22:15:33.2137706+09:00",
+      "group": "케이스",
+      "itemId": "1606213",
+      "name": "잘만 P10 NAMU 미니타워  블랙 173/340/전2/후1",
+      "amountKrw": 77000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1732619",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T22:15:33.2141764+09:00",
+      "group": "파워",
+      "itemId": "1427800",
+      "name": "MAG A750GL 80PLUS 골드 풀 모듈러 ATX3.1",
+      "amountKrw": 119000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1732619",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T22:15:33.2141055+09:00",
+      "group": "파워",
+      "itemId": "1504074",
+      "name": "MSI MAG A750BN 80PLUS 브론즈",
+      "amountKrw": 82000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1732619",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T22:15:33.2139998+09:00",
+      "group": "파워",
+      "itemId": "1520379",
+      "name": "마이크로닉스 Classic II 풀체인지 700W 80PLUS 브론즈 ATX3.1 파워 (ATX/700W)",
+      "amountKrw": 86900,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1732619",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T22:15:33.2142100+09:00",
+      "group": "파워",
+      "itemId": "1543373",
+      "name": "Classic II 750W 80PLUS 골드 풀모듈러 ATX3.1",
+      "amountKrw": 129000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1732619",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T22:15:33.2142424+09:00",
+      "group": "파워",
+      "itemId": "1545413",
+      "name": "SF-750C12FG COMBAT FG ATX3.1",
+      "amountKrw": 138500,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1732619",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T22:15:33.2143125+09:00",
+      "group": "파워",
+      "itemId": "1559931",
+      "name": "시소닉 NEW FOCUS V4 GX-750 GOLD 풀모듈러 ATX3.1 파워 (ATX/750W)",
+      "amountKrw": 199000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1732619",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T22:15:33.2142770+09:00",
+      "group": "파워",
+      "itemId": "1567824",
+      "name": "SF-750F14GE LEADEX III GOLD UP ATX3.1",
+      "amountKrw": 154000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1732619",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T22:15:33.2141405+09:00",
+      "group": "파워",
+      "itemId": "1584845",
+      "name": "Classic II 풀체인지 750W 80PLUS 스탠다드 ATX3.1",
+      "amountKrw": 86900,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1732619",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T22:15:33.2140721+09:00",
+      "group": "파워",
+      "itemId": "1622980",
+      "name": "슈퍼플라워 SF-750Z12DB Zillion DB ETA 실버 ATX3.1 파워 (ATX/750W)",
+      "amountKrw": 84000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1732619",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T22:15:33.2140364+09:00",
+      "group": "파워",
+      "itemId": "1676163",
+      "name": "STARS GEMINI 750W 80PLUS 브론즈 ATX3.1",
+      "amountKrw": 64000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1732619",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T22:15:33.2139627+09:00",
+      "group": "파워",
+      "itemId": "1683093",
+      "name": "darkFlash 퍼펙트모스트 700W 80PLUS 브론즈 ATX3.1 파워 블랙 (ATX/700W)",
+      "amountKrw": 69500,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1732619",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T22:15:33.2139266+09:00",
+      "group": "파워",
+      "itemId": "1705521",
+      "name": "MAXWELL RENAS 700W 80PLUS 스탠다드",
+      "amountKrw": 62000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1732619",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T22:15:33.2019200+09:00",
+      "group": "CPU",
+      "itemId": "1712444",
+      "name": "멀티팩 AMD R7 9700X /8코어/쿨러포함",
+      "amountKrw": 385890,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1732619",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T22:15:33.2021410+09:00",
+      "group": "CPU쿨러",
+      "itemId": "1263201",
+      "name": "Thermalright Peerless Assassin 120 SE 155/무광",
+      "amountKrw": 39900,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1732619",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T22:15:33.2021878+09:00",
+      "group": "CPU쿨러",
+      "itemId": "1366437",
+      "name": "PentaWave Z06D 블랙/158/무광",
+      "amountKrw": 64900,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1732619",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T22:15:33.2022400+09:00",
+      "group": "CPU쿨러",
+      "itemId": "1521444",
+      "name": "3RSYS Socoool RC1900N 솔더링 블랙/157",
+      "amountKrw": 81000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1732619",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T22:15:33.2020851+09:00",
+      "group": "CPU쿨러",
+      "itemId": "1559289",
+      "name": "3RSYS RC1050N 블랙/I7",
+      "amountKrw": 30500,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758101",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758101",
+      "capturedAt": "2026-08-29T22:15:30.4974920+09:00",
+      "group": "그래픽카드",
+      "itemId": "1614034",
+      "name": "Nvidia MSI 지포스 RTX 5060 Ti 쉐도우 OC 플러스 D7 16GB 그래픽카드 (완제품용)",
+      "amountKrw": 1126780,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758101",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758101",
+      "capturedAt": "2026-08-29T22:15:30.4951821+09:00",
+      "group": "그래픽카드",
+      "itemId": "1617277",
+      "name": "Nvidia MSI 지포스 RTX 5060 Ti 벤투스 2X OC 플러스 D7 8GB 그래픽카드 (완제품용)",
+      "amountKrw": 593600,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758101",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758101",
+      "capturedAt": "2026-08-29T22:15:30.4994372+09:00",
+      "group": "그래픽카드",
+      "itemId": "1627369",
+      "name": "Nvidia 기가바이트 지포스 RTX 5060 EAGLE OC D7 8GB (완제품용)",
+      "amountKrw": 559680,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758101",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758101",
+      "capturedAt": "2026-08-29T22:15:30.4995180+09:00",
+      "group": "그래픽카드",
+      "itemId": "1665540",
+      "name": "AMD ASUS DUAL 라데온 RX 9060 D6 8GB 그래픽카드 (완제품)",
+      "amountKrw": 381600,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758101",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758101",
+      "capturedAt": "2026-08-29T22:15:30.4941517+09:00",
+      "group": "메모리",
+      "itemId": "1365675",
+      "name": "삼성 DDR5 8GB PC5-44800/5600MHz",
+      "amountKrw": 206000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758101",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758101",
+      "capturedAt": "2026-08-29T22:15:30.4940071+09:00",
+      "group": "메모리",
+      "itemId": "1365678",
+      "name": "삼성 DDR5 16GB PC5-44800/5600MHz",
+      "amountKrw": 395000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758101",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758101",
+      "capturedAt": "2026-08-29T22:15:30.4951000+09:00",
+      "group": "메모리",
+      "itemId": "1365681",
+      "name": "삼성 DDR5 32GB PC5-44800/5600MHz",
+      "amountKrw": 840000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758101",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758101",
+      "capturedAt": "2026-08-29T22:15:30.4937841+09:00",
+      "group": "메모리",
+      "itemId": "1376207",
+      "name": "ESSENCORE DDR5 16GB PC5-44800 KLEVV CL46 메모리 (5600MHz) 파인인포",
+      "amountKrw": 340000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758101",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758101",
+      "capturedAt": "2026-08-29T22:15:30.4944363+09:00",
+      "group": "메모리",
+      "itemId": "1447710",
+      "name": "ESSENCORE DDR5 32G PC5-44800 CL46 KLEVV 메모리 파인인포",
+      "amountKrw": 670000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758101",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758101",
+      "capturedAt": "2026-08-29T22:15:30.4937155+09:00",
+      "group": "메모리",
+      "itemId": "1591848",
+      "name": "마이크론 DDR5 16GB PC5-44800/5600MHz CL46",
+      "amountKrw": 355000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758101",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758101",
+      "capturedAt": "2026-08-29T22:15:30.4926252+09:00",
+      "group": "메인보드",
+      "itemId": "1436415",
+      "name": "기가바이트 B650M K HDMI , DisplayPort",
+      "amountKrw": 123000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758101",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758101",
+      "capturedAt": "2026-08-29T22:15:30.4936595+09:00",
+      "group": "메인보드",
+      "itemId": "1518717",
+      "name": "MSI PRO B650M-A WIFI  HDMI , DisplayPort",
+      "amountKrw": 164300,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758101",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758101",
+      "capturedAt": "2026-08-29T22:15:30.4897581+09:00",
+      "group": "메인보드",
+      "itemId": "1528818",
+      "name": "MSI PRO B650M-P D-SUB , HDMI , DisplayPort",
+      "amountKrw": 126140,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758101",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758101",
+      "capturedAt": "2026-08-29T22:15:30.4935635+09:00",
+      "group": "메인보드",
+      "itemId": "1550342",
+      "name": "MSI PRO B650M-A HDMI , DisplayPort",
+      "amountKrw": 154000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758101",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758101",
+      "capturedAt": "2026-08-29T22:15:30.4996035+09:00",
+      "group": "운영체제 SSD",
+      "itemId": "1567392",
+      "name": "GEN4 500GB 마이크론 P310 읽기 6,600MB/s",
+      "amountKrw": 187000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758101",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758101",
+      "capturedAt": "2026-08-29T22:15:30.4997222+09:00",
+      "group": "운영체제 SSD",
+      "itemId": "1567395",
+      "name": "GEN4 1TB 마이크론 P310 읽기 7,100MB/s",
+      "amountKrw": 310000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758101",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758101",
+      "capturedAt": "2026-08-29T22:15:30.4996818+09:00",
+      "group": "운영체제 SSD",
+      "itemId": "1670265",
+      "name": "GEN4 1TB 마이크론 E100 읽기5,000MB/s",
+      "amountKrw": 235000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758101",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758101",
+      "capturedAt": "2026-08-29T22:15:30.4996451+09:00",
+      "group": "운영체제 SSD",
+      "itemId": "1672275",
+      "name": "GEN4 500GB WD SN5100 읽기 6,600MB/s",
+      "amountKrw": 240000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758101",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758101",
+      "capturedAt": "2026-08-29T22:15:30.4997673+09:00",
+      "group": "운영체제 SSD",
+      "itemId": "1672278",
+      "name": "GEN4 1TB WD SN5100 읽기 7,100MB/s",
+      "amountKrw": 310000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758101",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758101",
+      "capturedAt": "2026-08-29T22:15:30.4995626+09:00",
+      "group": "운영체제 SSD",
+      "itemId": "1680327",
+      "name": "GEN4 500GB WD SN5000 읽기 5,000MB/s",
+      "amountKrw": 238000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758101",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758101",
+      "capturedAt": "2026-08-29T22:15:30.5055298+09:00",
+      "group": "조립비",
+      "itemId": "1000070",
+      "name": "아이코다 조립비 (공랭CPU쿨러 조립시 / 1대분)",
+      "amountKrw": 25000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758101",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758101",
+      "capturedAt": "2026-08-29T22:15:30.4998185+09:00",
+      "group": "케이스",
+      "itemId": "1702401",
+      "name": "darkFlash DPF70 ARGB 미들타워 케이스 블랙 160/410/상단360/측3/후1",
+      "amountKrw": 65000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758101",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758101",
+      "capturedAt": "2026-08-29T22:15:30.5053972+09:00",
+      "group": "파워",
+      "itemId": "1504074",
+      "name": "MSI MAG A750BN 80PLUS 브론즈",
+      "amountKrw": 82000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758101",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758101",
+      "capturedAt": "2026-08-29T22:15:30.5020611+09:00",
+      "group": "파워",
+      "itemId": "1520379",
+      "name": "마이크로닉스 Classic II 풀체인지 700W 80PLUS 브론즈 ATX3.1 파워 (ATX/700W)",
+      "amountKrw": 86900,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758101",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758101",
+      "capturedAt": "2026-08-29T22:15:30.5054774+09:00",
+      "group": "파워",
+      "itemId": "1584845",
+      "name": "Classic II 풀체인지 750W 80PLUS 스탠다드 ATX3.1",
+      "amountKrw": 86900,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758101",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758101",
+      "capturedAt": "2026-08-29T22:15:30.5051345+09:00",
+      "group": "파워",
+      "itemId": "1622980",
+      "name": "슈퍼플라워 SF-750Z12DB Zillion DB ETA 실버 ATX3.1 파워 (ATX/750W)",
+      "amountKrw": 84000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758101",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758101",
+      "capturedAt": "2026-08-29T22:15:30.5021103+09:00",
+      "group": "파워",
+      "itemId": "1676163",
+      "name": "STARS GEMINI 750W 80PLUS 브론즈 ATX3.1",
+      "amountKrw": 64000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758101",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758101",
+      "capturedAt": "2026-08-29T22:15:30.5020054+09:00",
+      "group": "파워",
+      "itemId": "1683093",
+      "name": "darkFlash 퍼펙트모스트 700W 80PLUS 브론즈 ATX3.1 파워 블랙 (ATX/700W)",
+      "amountKrw": 69500,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758101",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758101",
+      "capturedAt": "2026-08-29T22:15:30.5014053+09:00",
+      "group": "파워",
+      "itemId": "1705521",
+      "name": "MAXWELL RENAS 700W 80PLUS 스탠다드",
+      "amountKrw": 62000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758101",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758101",
+      "capturedAt": "2026-08-29T22:15:30.3922305+09:00",
+      "group": "CPU",
+      "itemId": "1435014",
+      "name": "AMD R5 7500F/6코어/쿨러포함",
+      "amountKrw": 179000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758101",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758101",
+      "capturedAt": "2026-08-29T22:15:30.4864403+09:00",
+      "group": "CPU",
+      "itemId": "1501347",
+      "name": "AMD R5 7500F/멀티팩/쿨러미포함",
+      "amountKrw": 183000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758101",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758101",
+      "capturedAt": "2026-08-29T22:15:30.4895515+09:00",
+      "group": "CPU쿨러",
+      "itemId": "1165420",
+      "name": "PCCOOLER PALADIN 400 블랙/157/I5/R5",
+      "amountKrw": 29900,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758101",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758101",
+      "capturedAt": "2026-08-29T22:15:30.4896887+09:00",
+      "group": "CPU쿨러",
+      "itemId": "1184965",
+      "name": "PCCOOLER PALADIN 400 ARGB 블랙/157/I7/R5",
+      "amountKrw": 31900,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758101",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758101",
+      "capturedAt": "2026-08-29T22:15:30.4879285+09:00",
+      "group": "CPU쿨러",
+      "itemId": "1494546",
+      "name": "PentaWave Z04E SRB ARGB 157",
+      "amountKrw": 21900,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758101",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758101",
+      "capturedAt": "2026-08-29T22:15:30.4892732+09:00",
+      "group": "CPU쿨러",
+      "itemId": "1560528",
+      "name": "PCCOOLER CPS RT400 블랙/152",
+      "amountKrw": 22900,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758101",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758101",
+      "capturedAt": "2026-08-29T22:15:30.4869005+09:00",
+      "group": "CPU쿨러",
+      "itemId": "1656360",
+      "name": "발키리 AQ125 블랙/152",
+      "amountKrw": 17360,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758101",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758101",
+      "capturedAt": "2026-08-29T22:15:30.4893943+09:00",
+      "group": "CPU쿨러",
+      "itemId": "1656369",
+      "name": "발키리 AQ125 ARGB CPU공랭쿨러 블랙 152",
+      "amountKrw": 22200,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758101",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758101",
+      "capturedAt": "2026-08-29T22:15:30.4870301+09:00",
+      "group": "CPU쿨러",
+      "itemId": "1724651",
+      "name": "오쓰 CV-420 CPU공랭쿨러 블랙 148",
+      "amountKrw": 21000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758101",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758101",
+      "capturedAt": "2026-08-29T22:15:30.4868111+09:00",
+      "group": "CPU쿨러",
+      "itemId": "1745825",
+      "name": "맥스틸 MAX600 CPU공랭쿨러 블랙 154",
+      "amountKrw": 21000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758116",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758116",
+      "capturedAt": "2026-08-29T22:15:31.8529367+09:00",
+      "group": "그래픽카드",
+      "itemId": "1597328",
+      "name": "Nvidia MSI 지포스 RTX 5070 벤투스 3X OC D7 12GB 그래픽카드",
+      "amountKrw": 1234900,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758116",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758116",
+      "capturedAt": "2026-08-29T22:15:31.8530550+09:00",
+      "group": "그래픽카드",
+      "itemId": "1614034",
+      "name": "Nvidia MSI 지포스 RTX 5060 Ti 쉐도우 OC 플러스 D7 16GB 그래픽카드 (완제품용)",
+      "amountKrw": 1126780,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758116",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758116",
+      "capturedAt": "2026-08-29T22:15:31.8529944+09:00",
+      "group": "그래픽카드",
+      "itemId": "1617277",
+      "name": "Nvidia MSI 지포스 RTX 5060 Ti 벤투스 2X OC 플러스 D7 8GB 그래픽카드 (완제품용)",
+      "amountKrw": 593600,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758116",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758116",
+      "capturedAt": "2026-08-29T22:15:31.8455273+09:00",
+      "group": "메모리",
+      "itemId": "1365675",
+      "name": "삼성 DDR5 8GB PC5-44800/5600MHz",
+      "amountKrw": 206000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758116",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758116",
+      "capturedAt": "2026-08-29T22:15:31.8454800+09:00",
+      "group": "메모리",
+      "itemId": "1365678",
+      "name": "삼성 DDR5 16GB PC5-44800/5600MHz",
+      "amountKrw": 395000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758116",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758116",
+      "capturedAt": "2026-08-29T22:15:31.8528081+09:00",
+      "group": "메모리",
+      "itemId": "1365681",
+      "name": "삼성 DDR5 32GB PC5-44800/5600MHz",
+      "amountKrw": 840000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758116",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758116",
+      "capturedAt": "2026-08-29T22:15:31.8454307+09:00",
+      "group": "메모리",
+      "itemId": "1376207",
+      "name": "ESSENCORE DDR5 16GB PC5-44800 KLEVV CL46 메모리 (5600MHz) 파인인포",
+      "amountKrw": 340000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758116",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758116",
+      "capturedAt": "2026-08-29T22:15:31.8455721+09:00",
+      "group": "메모리",
+      "itemId": "1447710",
+      "name": "ESSENCORE DDR5 32G PC5-44800 CL46 KLEVV 메모리 파인인포",
+      "amountKrw": 670000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758116",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758116",
+      "capturedAt": "2026-08-29T22:15:31.8453819+09:00",
+      "group": "메모리",
+      "itemId": "1591848",
+      "name": "마이크론 DDR5 16GB PC5-44800/5600MHz CL46",
+      "amountKrw": 355000,
+      "quantity": 2
+    },
+    {
+      "sourceId": "icoda-1758116",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758116",
+      "capturedAt": "2026-08-29T22:15:31.8452544+09:00",
+      "group": "메인보드",
+      "itemId": "1322529",
+      "name": "MSI MAG B650M 박격포 WIFI 출력단자 HDMI , DP",
+      "amountKrw": 209000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758116",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758116",
+      "capturedAt": "2026-08-29T22:15:31.8453058+09:00",
+      "group": "메인보드",
+      "itemId": "1322568",
+      "name": "MSI MAG B650 토마호크",
+      "amountKrw": 254000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758116",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758116",
+      "capturedAt": "2026-08-29T22:15:31.8451117+09:00",
+      "group": "메인보드",
+      "itemId": "1436415",
+      "name": "기가바이트 B650M K HDMI , DisplayPort",
+      "amountKrw": 123000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758116",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758116",
+      "capturedAt": "2026-08-29T22:15:31.8452058+09:00",
+      "group": "메인보드",
+      "itemId": "1518717",
+      "name": "MSI PRO B650M-A WIFI  HDMI , DisplayPort",
+      "amountKrw": 164300,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758116",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758116",
+      "capturedAt": "2026-08-29T22:15:31.8450635+09:00",
+      "group": "메인보드",
+      "itemId": "1528818",
+      "name": "MSI PRO B650M-P D-SUB , HDMI , DisplayPort",
+      "amountKrw": 126140,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758116",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758116",
+      "capturedAt": "2026-08-29T22:15:31.8451548+09:00",
+      "group": "메인보드",
+      "itemId": "1550342",
+      "name": "MSI PRO B650M-A HDMI , DisplayPort",
+      "amountKrw": 154000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758116",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758116",
+      "capturedAt": "2026-08-29T22:15:31.8531511+09:00",
+      "group": "운영체제 SSD",
+      "itemId": "1567392",
+      "name": "GEN4 500GB 마이크론 P310 읽기 6,600MB/s",
+      "amountKrw": 187000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758116",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758116",
+      "capturedAt": "2026-08-29T22:15:31.8532913+09:00",
+      "group": "운영체제 SSD",
+      "itemId": "1567395",
+      "name": "GEN4 1TB 마이크론 P310 읽기 7,100MB/s",
+      "amountKrw": 310000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758116",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758116",
+      "capturedAt": "2026-08-29T22:15:31.8532451+09:00",
+      "group": "운영체제 SSD",
+      "itemId": "1670265",
+      "name": "GEN4 1TB 마이크론 E100 읽기5,000MB/s",
+      "amountKrw": 235000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758116",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758116",
+      "capturedAt": "2026-08-29T22:15:31.8532012+09:00",
+      "group": "운영체제 SSD",
+      "itemId": "1672275",
+      "name": "GEN4 500GB WD SN5100 읽기 6,600MB/s",
+      "amountKrw": 240000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758116",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758116",
+      "capturedAt": "2026-08-29T22:15:31.8533396+09:00",
+      "group": "운영체제 SSD",
+      "itemId": "1672278",
+      "name": "GEN4 1TB WD SN5100 읽기 7,100MB/s",
+      "amountKrw": 310000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758116",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758116",
+      "capturedAt": "2026-08-29T22:15:31.8531014+09:00",
+      "group": "운영체제 SSD",
+      "itemId": "1680327",
+      "name": "GEN4 500GB WD SN5000 읽기 5,000MB/s",
+      "amountKrw": 238000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758116",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758116",
+      "capturedAt": "2026-08-29T22:15:31.8591871+09:00",
+      "group": "조립비",
+      "itemId": "1000070",
+      "name": "아이코다 조립비 (공랭CPU쿨러 조립시 / 1대분)",
+      "amountKrw": 25000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758116",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758116",
+      "capturedAt": "2026-08-29T22:15:31.8533898+09:00",
+      "group": "케이스",
+      "itemId": "1702401",
+      "name": "darkFlash DPF70 ARGB 미들타워 케이스 블랙 160/410/상단360/측3/후1",
+      "amountKrw": 65000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758116",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758116",
+      "capturedAt": "2026-08-29T22:15:31.8536797+09:00",
+      "group": "파워",
+      "itemId": "1427797",
+      "name": "MSI MAG A850GL 80PLUS 골드 풀모듈러 ATX3.1",
+      "amountKrw": 119000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758116",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758116",
+      "capturedAt": "2026-08-29T22:15:31.8535405+09:00",
+      "group": "파워",
+      "itemId": "1504074",
+      "name": "MSI MAG A750BN 80PLUS 브론즈",
+      "amountKrw": 82000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758116",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758116",
+      "capturedAt": "2026-08-29T22:15:31.8538256+09:00",
+      "group": "파워",
+      "itemId": "1559925",
+      "name": "시소닉 NEW FOCUS V4 GX-850 GOLD 풀모듈러 ATX3.1 파워 (ATX/850W)",
+      "amountKrw": 225000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758116",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758116",
+      "capturedAt": "2026-08-29T22:15:31.8537690+09:00",
+      "group": "파워",
+      "itemId": "1567821",
+      "name": "SF-850F14GE LEADEX III GOLD UP ATX3.1",
+      "amountKrw": 169000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758116",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758116",
+      "capturedAt": "2026-08-29T22:15:31.8537227+09:00",
+      "group": "파워",
+      "itemId": "1577330",
+      "name": "마이크로닉스 Classic II 850W 80PLUS 골드 풀모듈러 ATX3.1",
+      "amountKrw": 149000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758116",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758116",
+      "capturedAt": "2026-08-29T22:15:31.8535870+09:00",
+      "group": "파워",
+      "itemId": "1584845",
+      "name": "Classic II 풀체인지 750W 80PLUS 스탠다드 ATX3.1",
+      "amountKrw": 86900,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758116",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758116",
+      "capturedAt": "2026-08-29T22:15:31.8534843+09:00",
+      "group": "파워",
+      "itemId": "1622980",
+      "name": "슈퍼플라워 SF-750Z12DB Zillion DB ETA 실버 ATX3.1 파워 (ATX/750W)",
+      "amountKrw": 84000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758116",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758116",
+      "capturedAt": "2026-08-29T22:15:31.8536323+09:00",
+      "group": "파워",
+      "itemId": "1624657",
+      "name": "STARS CYGNUS 850W 80PLUS 골드 풀모듈러 ATX3.1",
+      "amountKrw": 111300,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758116",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758116",
+      "capturedAt": "2026-08-29T22:15:31.8534355+09:00",
+      "group": "파워",
+      "itemId": "1676163",
+      "name": "STARS GEMINI 750W 80PLUS 브론즈 ATX3.1",
+      "amountKrw": 64000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758116",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758116",
+      "capturedAt": "2026-08-29T22:15:31.8445220+09:00",
+      "group": "CPU",
+      "itemId": "1457727",
+      "name": "AMD R7 7800X3D /8코어/멀티팩",
+      "amountKrw": 499000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758116",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758116",
+      "capturedAt": "2026-08-29T22:15:31.8449653+09:00",
+      "group": "CPU쿨러",
+      "itemId": "1165420",
+      "name": "PCCOOLER PALADIN 400 블랙/157/I5/R5",
+      "amountKrw": 29900,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758116",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758116",
+      "capturedAt": "2026-08-29T22:15:31.8450114+09:00",
+      "group": "CPU쿨러",
+      "itemId": "1184965",
+      "name": "PCCOOLER PALADIN 400 ARGB 블랙/157/I7/R5",
+      "amountKrw": 31900,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758116",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758116",
+      "capturedAt": "2026-08-29T22:15:31.8448180+09:00",
+      "group": "CPU쿨러",
+      "itemId": "1494546",
+      "name": "PentaWave Z04E SRB ARGB 157",
+      "amountKrw": 21900,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758116",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758116",
+      "capturedAt": "2026-08-29T22:15:31.8448684+09:00",
+      "group": "CPU쿨러",
+      "itemId": "1560528",
+      "name": "PCCOOLER CPS RT400 블랙/152",
+      "amountKrw": 22900,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758116",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758116",
+      "capturedAt": "2026-08-29T22:15:31.8447253+09:00",
+      "group": "CPU쿨러",
+      "itemId": "1656360",
+      "name": "발키리 AQ125 블랙/152",
+      "amountKrw": 17360,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758116",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758116",
+      "capturedAt": "2026-08-29T22:15:31.8449198+09:00",
+      "group": "CPU쿨러",
+      "itemId": "1656369",
+      "name": "발키리 AQ125 ARGB CPU공랭쿨러 블랙 152",
+      "amountKrw": 22200,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758116",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758116",
+      "capturedAt": "2026-08-29T22:15:31.8447651+09:00",
+      "group": "CPU쿨러",
+      "itemId": "1724651",
+      "name": "오쓰 CV-420 CPU공랭쿨러 블랙 148",
+      "amountKrw": 21000,
+      "quantity": 1
+    },
+    {
+      "sourceId": "icoda-1758116",
+      "sourceUrl": "https://usr.icoda.co.kr/item/view/1758116",
+      "capturedAt": "2026-08-29T22:15:31.8446842+09:00",
+      "group": "CPU쿨러",
+      "itemId": "1745825",
+      "name": "맥스틸 MAX600 CPU공랭쿨러 블랙 154",
+      "amountKrw": 21000,
+      "quantity": 1
+    }
+  ]
+}

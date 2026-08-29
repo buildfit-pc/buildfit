@@ -1,0 +1,8 @@
+{
+  "schemaVersion": "1.0.0",
+  "powerHeadroomRatio": 1.35,
+  "systemOverheadWatts": 100,
+  "minimumPowerSupplyWatts": 500,
+  "powerSupplyRoundUpWatts": 50,
+  "requiredCategories": ["Cpu", "CpuCooler", "Motherboard", "Memory", "Storage", "Case", "PowerSupply", "Assembly"]
+}

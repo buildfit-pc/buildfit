@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "1.0.0",
+  "profiles": [
+    {
+      "id": "performance",
+      "mode": "ImmediatePerformance",
+      "performanceWeight": 8,
+      "quietWeight": 2,
+      "expansionWeight": 2,
+      "memoryLayoutRule": "32GB 구성은 16GB x 2 듀얼채널을 우선한다.",
+      "description": "지금 체감하는 게임·작업 성능을 우선합니다."
+    },
+    {
+      "id": "balanced",
+      "mode": "Balanced",
+      "performanceWeight": 5,
+      "quietWeight": 4,
+      "expansionWeight": 4,
+      "memoryLayoutRule": "성능과 남은 슬롯을 함께 비교해 균형 조합을 선택한다.",
+      "description": "현재 성능, 소음, 업그레이드 여지를 고르게 봅니다."
+    },
+    {
+      "id": "expansion",
+      "mode": "ExpansionFirst",
+      "performanceWeight": 3,
+      "quietWeight": 3,
+      "expansionWeight": 8,
+      "memoryLayoutRule": "32GB 구성은 32GB x 1을 우선하고 싱글채널 성능 한계를 알린다.",
+      "description": "메모리 슬롯과 전원 여유를 남겨 다음 업그레이드를 쉽게 합니다."
+    }
+  ]
+}

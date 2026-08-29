@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schemaVersion", "sources"],
+  "properties": {
+    "schemaVersion": { "const": "1.0.0" },
+    "sources": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "provider", "url", "capturedAt", "evidence", "fields"],
+        "properties": {
+          "id": { "type": "string", "minLength": 1 },
+          "provider": { "const": "ICODA" },
+          "url": { "type": "string", "format": "uri", "pattern": "^https://usr\\.icoda\\.co\\.kr/" },
+          "capturedAt": { "type": "string", "format": "date-time" },
+          "evidence": { "type": "string", "minLength": 1 },
+          "fields": { "type": "array", "minItems": 1, "uniqueItems": true, "items": { "type": "string" } }
+        }
+      }
+    }
+  }
+}

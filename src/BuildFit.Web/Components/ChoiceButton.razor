@@ -1,0 +1,7 @@
+<button type="button" class="rounded-xl border px-3 py-2.5 text-sm font-semibold transition @(Active ? "border-lime-300 bg-lime-300 text-slate-950" : "border-white/10 bg-slate-950/40 text-slate-300 hover:border-white/30")" @onclick="Click">@Text</button>
+
+@code {
+    [Parameter, EditorRequired] public string Text { get; set; } = string.Empty;
+    [Parameter] public bool Active { get; set; }
+    [Parameter] public EventCallback Click { get; set; }
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schemaVersion", "powerHeadroomRatio", "systemOverheadWatts", "minimumPowerSupplyWatts", "powerSupplyRoundUpWatts", "requiredCategories"],
+  "properties": {
+    "schemaVersion": { "const": "1.0.0" },
+    "powerHeadroomRatio": { "type": "number", "minimum": 1.1, "maximum": 2.0 },
+    "systemOverheadWatts": { "type": "integer", "minimum": 0 },
+    "minimumPowerSupplyWatts": { "type": "integer", "minimum": 300 },
+    "powerSupplyRoundUpWatts": { "type": "integer", "minimum": 10 },
+    "requiredCategories": { "type": "array", "minItems": 8, "uniqueItems": true, "items": { "type": "string" } }
+  }
+}

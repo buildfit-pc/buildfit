@@ -1,0 +1,196 @@
+{
+  "schemaVersion": "1.0.0",
+  "capturedAt": "2026-08-29T13:05:00+09:00",
+  "products": [
+    {
+      "id": "cpu-amd-7500f",
+      "name": "AMD Ryzen 5 7500F",
+      "category": "Cpu",
+      "manufacturer": "AMD",
+      "price": { "amountKrw": 179000, "shippingKrw": 0, "capturedAt": "2026-08-29T13:05:00+09:00", "available": true },
+      "sourceId": "icoda-1758101",
+      "sourceProductId": "1435014",
+      "spec": { "socket": "AM5", "memoryType": "DDR5", "peakPowerWatts": 88, "integratedGraphics": false }
+    },
+    {
+      "id": "cpu-amd-7800x3d",
+      "name": "AMD Ryzen 7 7800X3D",
+      "category": "Cpu",
+      "manufacturer": "AMD",
+      "price": { "amountKrw": 499000, "shippingKrw": 0, "capturedAt": "2026-08-29T13:05:00+09:00", "available": true },
+      "sourceId": "icoda-1758116",
+      "sourceProductId": "1457727",
+      "spec": { "socket": "AM5", "memoryType": "DDR5", "peakPowerWatts": 162, "integratedGraphics": true }
+    },
+    {
+      "id": "cpu-amd-9700x",
+      "name": "AMD Ryzen 7 9700X",
+      "category": "Cpu",
+      "manufacturer": "AMD",
+      "price": { "amountKrw": 385890, "shippingKrw": 0, "capturedAt": "2026-08-29T13:05:00+09:00", "available": true },
+      "sourceId": "icoda-1732619",
+      "sourceProductId": "1712444",
+      "spec": { "socket": "AM5", "memoryType": "DDR5", "peakPowerWatts": 88, "integratedGraphics": true }
+    },
+    {
+      "id": "cooler-max600",
+      "name": "MAXTILL MAX600 공랭 쿨러",
+      "category": "CpuCooler",
+      "manufacturer": "MAXTILL",
+      "price": { "amountKrw": 21000, "shippingKrw": 0, "capturedAt": "2026-08-29T13:05:00+09:00", "available": true },
+      "sourceId": "icoda-1758101",
+      "sourceProductId": "1745825",
+      "spec": { "heightMm": 154, "coolingCapacityWatts": 180, "supportedSockets": ["AM5", "AM4", "LGA1700"] }
+    },
+    {
+      "id": "cooler-pa120se",
+      "name": "Thermalright Peerless Assassin 120 SE",
+      "category": "CpuCooler",
+      "manufacturer": "Thermalright",
+      "price": { "amountKrw": 39900, "shippingKrw": 0, "capturedAt": "2026-08-29T13:05:00+09:00", "available": true },
+      "sourceId": "icoda-1732619",
+      "sourceProductId": "1263201",
+      "spec": { "heightMm": 155, "coolingCapacityWatts": 260, "supportedSockets": ["AM5", "AM4", "LGA1700"] }
+    },
+    {
+      "id": "board-b650m-k",
+      "name": "GIGABYTE B650M K",
+      "category": "Motherboard",
+      "manufacturer": "GIGABYTE",
+      "price": { "amountKrw": 123000, "shippingKrw": 0, "capturedAt": "2026-08-29T13:05:00+09:00", "available": true },
+      "sourceId": "icoda-1758101",
+      "sourceProductId": "1436415",
+      "spec": { "socket": "AM5", "memoryType": "DDR5", "formFactor": "M-ATX", "memorySlots": 4, "maxMemoryGb": 192, "m2Slots": 2 }
+    },
+    {
+      "id": "board-b650m-a-wifi",
+      "name": "MSI PRO B650M-A WIFI",
+      "category": "Motherboard",
+      "manufacturer": "MSI",
+      "price": { "amountKrw": 164300, "shippingKrw": 0, "capturedAt": "2026-08-29T13:05:00+09:00", "available": true },
+      "sourceId": "icoda-1732619",
+      "sourceProductId": "1518717",
+      "spec": { "socket": "AM5", "memoryType": "DDR5", "formFactor": "M-ATX", "memorySlots": 4, "maxMemoryGb": 128, "m2Slots": 2 }
+    },
+    {
+      "id": "board-b650m-mortar-wifi",
+      "name": "MSI MAG B650M MORTAR WIFI",
+      "category": "Motherboard",
+      "manufacturer": "MSI",
+      "price": { "amountKrw": 209000, "shippingKrw": 0, "capturedAt": "2026-08-29T13:05:00+09:00", "available": true },
+      "sourceId": "icoda-1758116",
+      "sourceProductId": "1322529",
+      "spec": { "socket": "AM5", "memoryType": "DDR5", "formFactor": "M-ATX", "memorySlots": 4, "maxMemoryGb": 192, "m2Slots": 2 }
+    },
+    {
+      "id": "memory-micron-ddr5-16",
+      "name": "Micron DDR5-5600 16GB",
+      "category": "Memory",
+      "manufacturer": "Micron",
+      "price": { "amountKrw": 355000, "shippingKrw": 0, "capturedAt": "2026-08-29T13:05:00+09:00", "available": true },
+      "sourceId": "icoda-1758116",
+      "sourceProductId": "1591848",
+      "spec": { "memoryType": "DDR5", "memoryCapacityGb": 16 }
+    },
+    {
+      "id": "memory-klevv-ddr5-32",
+      "name": "KLEVV DDR5-5600 32GB",
+      "category": "Memory",
+      "manufacturer": "ESSENCORE",
+      "price": { "amountKrw": 670000, "shippingKrw": 0, "capturedAt": "2026-08-29T13:05:00+09:00", "available": true },
+      "sourceId": "icoda-1732619",
+      "sourceProductId": "1447710",
+      "spec": { "memoryType": "DDR5", "memoryCapacityGb": 32 }
+    },
+    {
+      "id": "gpu-msi-rtx5060ti-8",
+      "name": "MSI GeForce RTX 5060 Ti Ventus 2X OC Plus 8GB",
+      "category": "GraphicsCard",
+      "manufacturer": "MSI",
+      "price": { "amountKrw": 593600, "shippingKrw": 0, "capturedAt": "2026-08-29T13:05:00+09:00", "available": true },
+      "sourceId": "icoda-1758101",
+      "sourceProductId": "1617277",
+      "spec": { "lengthMm": 227, "peakPowerWatts": 180, "requiredPcie8PinCount": 1, "requiredPcie12V2X6Count": 0 }
+    },
+    {
+      "id": "gpu-msi-rtx5070-12",
+      "name": "MSI GeForce RTX 5070 Ventus 3X OC 12GB",
+      "category": "GraphicsCard",
+      "manufacturer": "MSI",
+      "price": { "amountKrw": 1234900, "shippingKrw": 0, "capturedAt": "2026-08-29T13:05:00+09:00", "available": true },
+      "sourceId": "icoda-1758116",
+      "sourceProductId": "1597328",
+      "spec": { "lengthMm": 303, "peakPowerWatts": 250, "requiredPcie8PinCount": 0, "requiredPcie12V2X6Count": 1 }
+    },
+    {
+      "id": "ssd-micron-e100-1tb",
+      "name": "Micron E100 NVMe 1TB",
+      "category": "Storage",
+      "manufacturer": "Micron",
+      "price": { "amountKrw": 235000, "shippingKrw": 0, "capturedAt": "2026-08-29T13:05:00+09:00", "available": true },
+      "sourceId": "icoda-1732619",
+      "sourceProductId": "1670265",
+      "spec": { "formFactor": "M.2-2280", "storageCapacityGb": 1000 }
+    },
+    {
+      "id": "ssd-micron-p310-1tb",
+      "name": "Micron P310 NVMe 1TB",
+      "category": "Storage",
+      "manufacturer": "Micron",
+      "price": { "amountKrw": 310000, "shippingKrw": 0, "capturedAt": "2026-08-29T13:05:00+09:00", "available": true },
+      "sourceId": "icoda-1758116",
+      "sourceProductId": "1567395",
+      "spec": { "formFactor": "M.2-2280", "storageCapacityGb": 1000 }
+    },
+    {
+      "id": "case-darkflash-dpf70",
+      "name": "darkFlash DPF70 ARGB",
+      "category": "Case",
+      "manufacturer": "darkFlash",
+      "price": { "amountKrw": 65000, "shippingKrw": 0, "capturedAt": "2026-08-29T13:05:00+09:00", "available": true },
+      "sourceId": "icoda-1758101",
+      "sourceProductId": "1702401",
+      "spec": { "maxGpuLengthMm": 410, "maxCoolerHeightMm": 160, "supportedMotherboardFormFactors": ["ATX", "M-ATX", "Mini-ITX"] }
+    },
+    {
+      "id": "case-zalman-p10-namu",
+      "name": "ZALMAN P10 NAMU",
+      "category": "Case",
+      "manufacturer": "ZALMAN",
+      "price": { "amountKrw": 77000, "shippingKrw": 0, "capturedAt": "2026-08-29T13:05:00+09:00", "available": true },
+      "sourceId": "icoda-1732619",
+      "sourceProductId": "1606213",
+      "spec": { "maxGpuLengthMm": 340, "maxCoolerHeightMm": 173, "supportedMotherboardFormFactors": ["M-ATX", "Mini-ITX"] }
+    },
+    {
+      "id": "psu-stars-gemini-750",
+      "name": "STARS GEMINI 750W 80PLUS Bronze ATX 3.1",
+      "category": "PowerSupply",
+      "manufacturer": "MAXELITE",
+      "price": { "amountKrw": 64000, "shippingKrw": 0, "capturedAt": "2026-08-29T13:05:00+09:00", "available": true },
+      "sourceId": "icoda-1758116",
+      "sourceProductId": "1676163",
+      "spec": { "formFactor": "ATX", "ratedWatts": 750, "pcie8PinCount": 2, "pcie12V2X6Count": 1 }
+    },
+    {
+      "id": "psu-stars-cygnus-850",
+      "name": "STARS CYGNUS 850W 80PLUS Gold ATX 3.1",
+      "category": "PowerSupply",
+      "manufacturer": "MAXELITE",
+      "price": { "amountKrw": 111300, "shippingKrw": 0, "capturedAt": "2026-08-29T13:05:00+09:00", "available": true },
+      "sourceId": "icoda-1758116",
+      "sourceProductId": "1624657",
+      "spec": { "formFactor": "ATX", "ratedWatts": 850, "pcie8PinCount": 3, "pcie12V2X6Count": 1 }
+    },
+    {
+      "id": "service-assembly-air",
+      "name": "아이코다 공랭 CPU 쿨러 조립비",
+      "category": "Assembly",
+      "manufacturer": "ICODA",
+      "price": { "amountKrw": 25000, "shippingKrw": 0, "capturedAt": "2026-08-29T13:05:00+09:00", "available": true },
+      "sourceId": "icoda-1758101",
+      "sourceProductId": "1000070",
+      "spec": {}
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "1.0.0",
+  "sources": [
+    {
+      "id": "icoda-1758101",
+      "provider": "ICODA",
+      "url": "https://usr.icoda.co.kr/item/view/1758101",
+      "capturedAt": "2026-08-29T13:05:00+09:00",
+      "evidence": "아이코다 완성 구성 옵션 HTML의 상품번호, 옵션 단가, 수량과 구성표를 정규화",
+      "fields": ["productId", "name", "price", "quantity", "availability", "configuredCompatibility"]
+    },
+    {
+      "id": "icoda-1758116",
+      "provider": "ICODA",
+      "url": "https://usr.icoda.co.kr/item/view/1758116",
+      "capturedAt": "2026-08-29T13:05:00+09:00",
+      "evidence": "아이코다 7800X3D/RTX 5070 구성 옵션 HTML의 상품번호, 옵션 단가, 수량과 구성표를 정규화",
+      "fields": ["productId", "name", "price", "quantity", "availability", "configuredCompatibility"]
+    },
+    {
+      "id": "icoda-1732619",
+      "provider": "ICODA",
+      "url": "https://usr.icoda.co.kr/item/view/1732619",
+      "capturedAt": "2026-08-29T13:05:00+09:00",
+      "evidence": "아이코다 9700X 작업용 구성 옵션 HTML의 상품번호, 옵션 단가, 수량과 구성표를 정규화",
+      "fields": ["productId", "name", "price", "quantity", "availability", "configuredCompatibility"]
+    }
+  ]
+}

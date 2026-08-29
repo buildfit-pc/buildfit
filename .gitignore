@@ -1,0 +1,10 @@
+**/bin/
+**/obj/
+node_modules/
+artifacts/publish*/
+artifacts/*.png
+.vs/
+.idea/
+*.user
+*.suo
+src/BuildFit.Web/wwwroot/lib/

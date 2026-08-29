@@ -1,0 +1,13 @@
+<button type="button" class="w-full rounded-xl border p-3 text-left transition @(Mode == Current ? "border-lime-300 bg-lime-300/10" : "border-white/10 bg-slate-950/40 hover:border-white/30")" @onclick="Select">
+    <strong class="block text-sm @(Mode == Current ? "text-lime-300" : "text-slate-200")">@Title</strong>
+    <span class="mt-1 block text-xs leading-5 text-slate-500">@Description</span>
+</button>
+
+@code {
+    [Parameter, EditorRequired] public string Title { get; set; } = string.Empty;
+    [Parameter, EditorRequired] public string Description { get; set; } = string.Empty;
+    [Parameter] public PreferenceMode Mode { get; set; }
+    [Parameter] public PreferenceMode Current { get; set; }
+    [Parameter] public EventCallback<PreferenceMode> Changed { get; set; }
+    private Task Select() => Changed.InvokeAsync(Mode);
+}

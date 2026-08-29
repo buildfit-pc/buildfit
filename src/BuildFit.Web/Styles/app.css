@@ -1,0 +1,14 @@
+@import "tailwindcss";
+@source "../**/*.razor";
+@source "../**/*.cs";
+
+@theme {
+  --font-sans: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+html { color-scheme: dark; scroll-behavior: smooth; }
+body { margin: 0; min-width: 320px; font-family: var(--font-sans); }
+button, input { font: inherit; }
+button:focus-visible, input:focus-visible, a:focus-visible { outline: 2px solid #bef264; outline-offset: 2px; }
+code { color: #bef264; }
+h1[tabindex="-1"]:focus { outline: none; }
