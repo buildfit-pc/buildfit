@@ -141,7 +141,8 @@ public sealed record UserPreference(
     int BudgetKrw,
     int MemoryGb,
     string TargetResolution,
-    bool PreferQuiet);
+    bool PreferQuiet,
+    int MinimumPerformanceScore = 0);
 
 public sealed record ValidationIssue(string Code, string Message, bool IsBlocking);
 

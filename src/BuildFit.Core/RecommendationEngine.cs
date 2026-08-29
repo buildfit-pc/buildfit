@@ -11,6 +11,7 @@ public static class RecommendationEngine
             .Where(build => build.Purposes.Contains(preference.Purpose))
             .Where(build => build.TargetMemoryGb == preference.MemoryGb)
             .Where(build => string.Equals(build.TargetResolution, preference.TargetResolution, StringComparison.OrdinalIgnoreCase))
+            .Where(build => build.PerformanceScore >= preference.MinimumPerformanceScore)
             .Select(build => CreateRecommendation(build, products, data.Rules, preference, profile))
             .Where(result => result.Compatibility.IsCompatible)
             .OrderByDescending(result => result.MatchScore)
